@@ -3,9 +3,9 @@ h1 {
     color: brown;
 }
 
-.miniTitre {
+p {
     text-align: center;
     color: rgb(0, 113, 113);
     font-weight: bold;
-    font-size: 70px;
+    font-size: 20px;
 }
